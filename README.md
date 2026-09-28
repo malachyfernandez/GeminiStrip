@@ -1,3 +1,5 @@
+![GeminiStrip](cover.jpg)
+
 # GeminiStrip
 
 A Chrome extension that strips away inline source citations on Google Gemini.
